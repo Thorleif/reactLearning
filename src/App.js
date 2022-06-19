@@ -4,7 +4,6 @@ import {Link, Outlet} from "react-router-dom";
 
 import React, { useState, useEffect, useReducer, useRef } from "react";
 
-/* Her vil jeg gjøre noen endringer */
 
 function Navigation () {
   return (
